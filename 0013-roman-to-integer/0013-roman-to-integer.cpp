@@ -1,27 +1,24 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int res=0;
-        unordered_map<char, int> dict;
-        dict['I']=1;
-        dict['V']=5;
-        dict['X']=10;
-        dict['L']=50;
-        dict['C']=100;
-        dict['D']=500;
-        dict['M']=1000;
-        for(int i=0;i<s.size();i++){
-            auto it = dict.find(s[i]);
+        unordered_map<char, int> dict = {
+            {'I',1}, {'V',5}, {'X',10},
+            {'L',50}, {'C',100},
+            {'D',500}, {'M',1000}
+        };
+
+        int res = 0;
+
+        for(int i = 0; i < s.size(); i++) {
             int curr = dict[s[i]];
-            int next= dict[s[i+1]];
-            if(curr>=next){
-                res+=curr;
-            }else{
-                int x= next-curr;
-                res+=x;
-                i++;
+
+            if(i + 1 < s.size() && curr < dict[s[i+1]]) {
+                res -= curr;
+            } else {
+                res += curr;
             }
         }
+
         return res;
     }
 };
