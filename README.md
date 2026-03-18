@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/flutebyte/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/flutebyte/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1470-shuffle-the-array](https://github.com/flutebyte/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/flutebyte/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
