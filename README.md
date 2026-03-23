@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/flutebyte/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/flutebyte/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flutebyte/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/flutebyte/Leetcode/tree/master/0136-single-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/flutebyte/Leetcode/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/flutebyte/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/flutebyte/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
