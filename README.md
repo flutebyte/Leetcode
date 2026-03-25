@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/flutebyte/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/flutebyte/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/flutebyte/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/flutebyte/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/flutebyte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/flutebyte/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/flutebyte/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/flutebyte/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
