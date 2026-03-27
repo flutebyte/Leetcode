@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/flutebyte/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/flutebyte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/flutebyte/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/flutebyte/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/flutebyte/Leetcode/tree/master/0053-maximum-subarray) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/flutebyte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/flutebyte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/flutebyte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -122,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/flutebyte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/flutebyte/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/flutebyte/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/flutebyte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/flutebyte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/flutebyte/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/flutebyte/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
