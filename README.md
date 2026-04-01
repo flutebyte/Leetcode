@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/flutebyte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-bag-of-tokens](https://github.com/flutebyte/Leetcode/tree/master/0948-bag-of-tokens) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/flutebyte/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/flutebyte/Leetcode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/flutebyte/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Bit Manipulation
 |  |
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/flutebyte/Leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
