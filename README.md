@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/flutebyte/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/flutebyte/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/flutebyte/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/flutebyte/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/flutebyte/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/flutebyte/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/flutebyte/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/flutebyte/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/flutebyte/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/flutebyte/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/flutebyte/Leetcode/tree/master/0509-fibonacci-number) |
