@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/flutebyte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/flutebyte/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/flutebyte/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/flutebyte/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/flutebyte/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/flutebyte/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/flutebyte/Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/flutebyte/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/flutebyte/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/flutebyte/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/flutebyte/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/flutebyte/Leetcode/tree/master/0344-reverse-string) |
 | [0948-bag-of-tokens](https://github.com/flutebyte/Leetcode/tree/master/0948-bag-of-tokens) |
