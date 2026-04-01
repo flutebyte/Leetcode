@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/flutebyte/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/flutebyte/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/flutebyte/Leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/flutebyte/Leetcode/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/flutebyte/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/flutebyte/Leetcode/tree/master/0344-reverse-string) |
