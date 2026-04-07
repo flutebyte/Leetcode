@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/flutebyte/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/flutebyte/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/flutebyte/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/flutebyte/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/flutebyte/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/flutebyte/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/flutebyte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/flutebyte/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/flutebyte/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/flutebyte/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/flutebyte/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/flutebyte/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/flutebyte/Leetcode/tree/master/0202-happy-number) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/flutebyte/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/flutebyte/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/flutebyte/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/flutebyte/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/flutebyte/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/flutebyte/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/flutebyte/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/flutebyte/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/flutebyte/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
