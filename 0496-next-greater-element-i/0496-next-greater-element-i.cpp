@@ -40,13 +40,11 @@ public:
             st.push(nums2[i]);
         }
 
-        // Step 2: map
         unordered_map<int, int> mp;
         for(int i = 0; i < size; i++){
             mp[nums2[i]] = nge[i];
         }
 
-        // Step 3: answer for nums1
         vector<int> ans;
         for(int x : nums1){
             ans.push_back(mp[x]);
