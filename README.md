@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/flutebyte/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/flutebyte/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/flutebyte/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/flutebyte/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/flutebyte/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/flutebyte/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0948-bag-of-tokens](https://github.com/flutebyte/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1903-largest-odd-number-in-string](https://github.com/flutebyte/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/flutebyte/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Binary Search
 |  |
 | ------- |
