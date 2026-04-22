@@ -6,7 +6,7 @@ public:
         int left =0, right = 0, zero=0;
         while(right<nums.size()){
             if(nums[right]==0) zero++;
-            while(zero>k){
+            if(zero>k){
                 if(nums[left]==0){
                     zero--;
                 }
