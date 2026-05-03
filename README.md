@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/flutebyte/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/flutebyte/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/flutebyte/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/flutebyte/Leetcode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/flutebyte/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/flutebyte/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/flutebyte/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/flutebyte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/flutebyte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/flutebyte/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/flutebyte/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
